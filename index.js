@@ -4,7 +4,7 @@ function lang_change(){
         document.getElementById("logot1").innerHTML = "NHAN HOANG ANH CO., LTD";
         document.getElementById("logot2").innerHTML = "";
         document.getElementById("text1").innerHTML = "James, Vu Dinh Man";
-        document.getElementById("text2").innerHTML = "Deputy Genaral Director";
+        document.getElementById("text2").innerHTML = "Deputy General Director";
         document.getElementById("text3").innerHTML = "Tel: +84 909 048 999";
         document.getElementById("text4").innerHTML = "3rd floor, An Phu Plaza Building, 117-119 Ly Chinh Thang Street, Vo Thi Sau Ward, Dist. 3, HCM City";
         document.getElementById("text5").innerHTML = "Tel: +84 848 048 999";
